@@ -1,4 +1,4 @@
-# cryptanalysis
+# Differential Cryptanalysis on Substitution–Permutation Network
 
 In this project, a differential cryptanalysis has been worked on a basic algorithm named as toy cipher. This algorithm has a SPN network which consist of four rounds. (substitution-permutation network). There are S-box layer, P-box layer and key mixing layer.
 
